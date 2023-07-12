@@ -1,2 +1,2 @@
-<h1 align="left">Hey, I'm Aparajit!</h1>
+<h2 align="left">Hey, I'm Aparajit!</h2>
 
